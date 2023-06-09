@@ -22,3 +22,15 @@
 .nav-link-text {
     color: black;
 }
+
+.hero {
+    text-align: center; 
+    padding: 20px; 
+    background-color: #0396A6;
+    border: 3px solid black;
+    border-radius: 4px;
+}
+
+.hero img {
+    max-width: 100%; 
+}
