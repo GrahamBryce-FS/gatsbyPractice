@@ -34,3 +34,17 @@
 .hero img {
     max-width: 100%; 
 }
+
+.article {
+    margin-top: 20px;
+    padding-bottom:1px;
+    background-image: linear-gradient(to right, transparent 25%, gray 25%, gray 75%, transparent 75%);
+    background-position: bottom;
+    background-size: 100% 2px; 
+    background-repeat: no-repeat;
+    background-clip: content-box;
+}
+.h2 {
+    padding-top: 20px;
+    border-top: 1px solid gray;
+}
