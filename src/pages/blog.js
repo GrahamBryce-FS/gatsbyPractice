@@ -14,6 +14,8 @@ const Blog = () => {
                 <p>Saturday, June 15th 2022</p>
             <h2 className={h2}><Link to="/apiPost">Best Practices for using API's within React</Link></h2>
                 <p>Friday, June 9th 2023</p>
+            <h2 className={h2}><Link to="/reactnative">React Native</Link></h2>
+                <p>Friday, June 14th 2023</p>
         </Layout>
     )
 }

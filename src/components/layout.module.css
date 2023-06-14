@@ -31,11 +31,24 @@
     border-radius: 4px;
 }
 
+.heroNative{
+    text-align: center;
+    padding: 20px;
+    background-color: #F2E0D5;
+    border: 3px solid black;
+    border-radius: 4px;
+}
+
+.heroNative img {
+    max-width: 100%; 
+}
+
 .hero img {
     max-width: 100%; 
 }
 
 .article {
+    text-align: center;
     margin-top: 20px;
     padding-bottom:1px;
     background-image: linear-gradient(to right, transparent 25%, gray 25%, gray 75%, transparent 75%);
