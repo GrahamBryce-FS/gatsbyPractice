@@ -16,6 +16,8 @@ const Blog = () => {
                 <p>Friday, June 9th 2023</p>
             <h2 className={h2}><Link to="/reactnative">React Native</Link></h2>
                 <p>Friday, June 14th 2023</p>
+            <h2 className={h2}><Link to="/bcrypt">Password Hashing</Link></h2>
+                <p>Friday, June 14th 2023</p>
         </Layout>
     )
 }

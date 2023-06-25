@@ -38,7 +38,17 @@
     border: 3px solid black;
     border-radius: 4px;
 }
+.heroEncrypt{
+    text-align: center;
+    padding: 20px;
+    background-color: #025918;
+    border: 3px solid black;
+    border-radius: 4px;
+}
 
+.heroEncrypt img {
+    max-width: 100%; 
+}
 .heroNative img {
     max-width: 100%; 
 }
